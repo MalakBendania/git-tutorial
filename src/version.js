@@ -1,2 +1,2 @@
 console.log('version.js');
-console.log('noskha1');
+console.log('noskha2');
